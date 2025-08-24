@@ -1,0 +1,16 @@
+{
+  "name": "jarc-ai",
+  "version": "1.0.0",
+  "description": "**La forma más rápida de crear y desplegar agentes de IA profesionales** ⚡",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "jarc-ai": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.6.0",
+    "inquirer": "^9.3.7",
+    "ora": "^7.0.1",
+    "shelljs": "^0.8.5"
+  }
+}
